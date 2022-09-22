@@ -1,0 +1,33 @@
+
+  body {
+    background-image: url(https://cdn.wallpapersafari.com/30/78/5j8kxe.jpg);
+    background-size: cover;
+}
+h2 {
+    color: black;
+    text-align: start;
+    
+    
+}      
+
+
+h4 {
+    color:black;  
+
+}
+h3 {
+    color: black;
+    text-align: center;
+}
+
+h5 {
+    color: black;
+    text-align: center;
+    background-image: url(https://cdn.wallpapersafari.com/22/12/yWM9C5.jpg);
+
+}
+h6 {
+    color: black;
+    text-align: center;
+
+}
